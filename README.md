@@ -5,7 +5,7 @@ Data Science graduate from Heriot-Watt University Dubai (BSc Hons, First Class, 
 Currently looking for graduate data science / ML / analyst roles in the UAE and GCC.
 
 Some of my projects:
-
+- [energy-signal-llm](https://github.com/km722/energy-signal-llm): an LLM pipeline that labels a year of Guardian headlines with weather events and regions (Claude Haiku, 90% event accuracy against 140 hand-labelled headlines), then tests whether those events move day-ahead electricity prices in five European markets. They don't, and the placebo control shows why that's the right answer.
 - [hypertension-detection](https://github.com/km722/hypertension-detection): my dissertation. Ensemble models that flag undiagnosed hypertension from routine blood tests (NHANES, n=10,739, AUC 0.823 under temporal validation), with SHAP interpretability and a small Streamlit demo.
 - [gdp-forecasting-deep-learning](https://github.com/km722/gdp-forecasting-deep-learning): LSTM vs CNN-LSTM vs Transformer for 5-year GDP per capita forecasting across 219 countries.
 - [insurance-cross-sell-ml](https://github.com/km722/insurance-cross-sell-ml): dealing with 7:1 class imbalance. kNN written from scratch, SMOTE, class-weighted trees. Recall went from 5% to 54%.
