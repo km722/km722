@@ -2,9 +2,10 @@
 
 Data Science graduate from Heriot-Watt University Dubai (BSc Hons, First Class, 2026). I mostly work in Python and PyTorch, with R for classical stats and SQL for everything else. Last summer I interned as a data scientist at Abu Dhabi Islamic Bank, building churn, fraud and branch performance analytics.
 
-Currently looking for graduate data science / ML / analyst roles in the UAE and GCC.
+Currently looking for graduate AI engineer / data science / ML / analyst roles in the UAE and GCC.
 
 Some of my projects:
+- [data-agent](https://github.com/km722/data-agent): an autonomous data-cleaning agent built on the raw Anthropic API, no agent frameworks. It inspects a messy CSV, writes and runs its own cleaning code, fixes its own errors, and saves a cleaned file plus a report. Every output value has to come from the source data or a tool result, never the model's memory. Scored against my own 10-check rubric, 86 to 97 over four versions.
 - [energy-signal-llm](https://github.com/km722/energy-signal-llm): an LLM pipeline that labels a year of Guardian headlines with weather events and regions (Claude Haiku, 90% event accuracy against 140 hand-labelled headlines), then tests whether those events move day-ahead electricity prices in five European markets. They don't, and the placebo control shows why that's the right answer.
 - [hypertension-detection](https://github.com/km722/hypertension-detection): my dissertation. Ensemble models that flag undiagnosed hypertension from routine blood tests (NHANES, n=10,739, AUC 0.823 under temporal validation), with SHAP interpretability and a small Streamlit demo.
 - [gdp-forecasting-deep-learning](https://github.com/km722/gdp-forecasting-deep-learning): LSTM vs CNN-LSTM vs Transformer for 5-year GDP per capita forecasting across 219 countries.
