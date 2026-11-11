@@ -11,6 +11,7 @@ Some of my projects:
 - [gdp-forecasting-deep-learning](https://github.com/km722/gdp-forecasting-deep-learning): LSTM vs CNN-LSTM vs Transformer for 5-year GDP per capita forecasting across 219 countries.
 - [insurance-cross-sell-ml](https://github.com/km722/insurance-cross-sell-ml): dealing with 7:1 class imbalance. kNN written from scratch, SMOTE, class-weighted trees. Recall went from 5% to 54%.
 - [rl-tictactoe-agents](https://github.com/km722/rl-tictactoe-agents): Q-learning, Value Iteration and Policy Iteration in Java, no RL libraries.
+- [csharp-web-browser](https://github.com/km722/csharp-web-browser): a desktop web browser in C# and Windows Forms. Handles HTTP errors, timeouts and DNS failures, and keeps each user's bookmarks and history in SQLite.
 - [r-statistical-modelling](https://github.com/km722/r-statistical-modelling): ARIMA forecasting and customer segmentation in R.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/khaled-mazahreh) or at mazahrehk@gmail.com. Arabic and English, based in Dubai.
